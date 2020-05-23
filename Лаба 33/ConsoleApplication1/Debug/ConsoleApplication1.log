@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\vitas\Desktop\ConsoleApplication1\Source.cpp(40,2): warning C4091: extern : пропускается слева от "point", когда ни одна переменная не объявлена
+C:\Users\vitas\Desktop\ConsoleApplication1\Source.cpp(306,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\vitas\Desktop\ConsoleApplication1\Source.cpp(306,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\vitas\Desktop\ConsoleApplication1\Source.cpp(318,17): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\vitas\Desktop\ConsoleApplication1\Source.cpp(318,13): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\vitas\Desktop\ConsoleApplication1\Source.cpp(321,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\vitas\Desktop\ConsoleApplication1\Source.cpp(322,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\vitas\Desktop\ConsoleApplication1\Source.cpp(343,38): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\vitas\Desktop\ConsoleApplication1\Source.cpp(343,22): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\vitas\Desktop\ConsoleApplication1\Source.cpp(345,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vitas\Desktop\ConsoleApplication1\Source.cpp(393,1): warning C4305: аргумент: усечение из "double" в "GLclampf"
+  ConsoleApplication1.vcxproj -> C:\Users\vitas\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.exe
